@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TP-TitanesPacifico")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Consola")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d81fd5cede808dc35e136ba6fffe123f88e5409")]
-[assembly: System.Reflection.AssemblyProductAttribute("TP-TitanesPacifico")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TP-TitanesPacifico")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9361200cc398db1e1519681f32dcae73afce4a8b")]
+[assembly: System.Reflection.AssemblyProductAttribute("Consola")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Consola")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
